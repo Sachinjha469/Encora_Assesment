@@ -18,9 +18,7 @@ Additionally, the system provides extra functionalities, including:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Future Improvements](#future-improvements)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Installation
 To set up the project locally, follow these steps:
