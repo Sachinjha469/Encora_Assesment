@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
    ```
 3. Run the Python script:
    ```sh
-   python library.py
+   python Encora.py
    ```
 
 ## Usage
